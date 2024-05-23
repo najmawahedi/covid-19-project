@@ -1,4 +1,4 @@
-COVID-19 Data Analysis
+### COVID-19 Data Analysis
 This repository contains cleaned COVID-19 data and a Jupyter Notebook for data analysis. The raw data can be found at Our World in Data.
 
 #### Contents
