@@ -4,8 +4,8 @@ This repository contains cleaned COVID-19 data and a Jupyter Notebook for data a
 #### Contents
 cleaned_data.csv: The cleaned dataset used for analysis.
 covid_analysis.ipynb: Jupyter Notebook with data analysis and visualizations.
-Overview
-The analysis includes:
+#### Overview
+**The analysis includes:**
 
 Data cleaning and preprocessing
 Exploratory data analysis (EDA)
